@@ -1,5 +1,5 @@
 package br.com.devsuperior.exercicio.dto;
 
-public record UserRequestDTO(String name, String password) {
+public record UserRequestDTO(String username, String password) {
 
 }
